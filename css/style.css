@@ -1,7 +1,6 @@
 ::-webkit-input-placeholder {
 	color: #d5dc99;
 	font-variant: small-caps;
-	padding-left: 10px;
 	font-size: 16px;
 	font-family: Myriad Pro, sans-serif;
 	font-stretch: expanded;
@@ -67,21 +66,25 @@ form{
 	background-color: transparent;
 	border-radius: 6px;
 	height: 30px;
+	color: #cdd47b;
+	padding-left: 20px;
+	font-size: 14px;
+	font-family: Myriad Pro, sans-serif;
 
 }
 
 .f_name input{
-	width: 125px;
+	width: 105px;
 	margin-right: 13px;
 }
 
 .f_email input{
-	width: 162px;
+	width: 142px;
 	margin-right: 5px;
 }
 
 .f_tel input{
-	width: 132px; 
+	width: 112px; 
 	margin-right: 5px;
 	border: 10px solid #cdd47b;
 	border-radius: 15px;
